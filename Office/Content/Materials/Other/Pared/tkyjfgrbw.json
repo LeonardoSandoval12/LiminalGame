@@ -1,0 +1,586 @@
+{
+  "assetCategories": {
+    "surface": {
+      "wood": {
+        "other": {}
+      }
+    }
+  },
+  "averageColor": "#412F1C",
+  "categories": [
+    "surface",
+    "wood",
+    "misc"
+  ],
+  "comp_version": 1,
+  "description": "",
+  "displacementBias": 0.449999,
+  "displacementCalibrationAccuracy": 0.984247,
+  "displacementScale": 0.953851,
+  "environment": {
+    "biome": "undefined",
+    "region": "undefined"
+  },
+  "highest_available_res": 8192,
+  "id": "tkyjfgrbw",
+  "json": {
+    "contentLength": 12476,
+    "uri": "tkyjfgrbw.json"
+  },
+  "maps": [
+    {
+      "averageColor": "#F6F6F6",
+      "bitDepth": 32,
+      "colorSpace": "sRGB",
+      "contentLength": 183835519,
+      "maxIntensity": 255,
+      "mimeType": "image/x-exr",
+      "minIntensity": 141,
+      "name": "AO",
+      "physicalSize": "1x1",
+      "resolution": "8192x8192",
+      "type": "ao",
+      "uri": "tkyjfgrbw_8K_AO.exr"
+    },
+    {
+      "averageColor": "#F6F6F6",
+      "bitDepth": 8,
+      "colorSpace": "sRGB",
+      "contentLength": 25262602,
+      "maxIntensity": 255,
+      "mimeType": "image/jpeg",
+      "minIntensity": 141,
+      "name": "AO",
+      "physicalSize": "1x1",
+      "resolution": "8192x8192",
+      "type": "ao",
+      "uri": "tkyjfgrbw_8K_AO.jpg"
+    },
+    {
+      "averageColor": "#412F1C",
+      "bitDepth": 16,
+      "colorSpace": "sRGB",
+      "contentLength": 257884106,
+      "maxIntensity": 113,
+      "mimeType": "image/x-exr",
+      "minIntensity": 19,
+      "name": "Basecolor",
+      "physicalSize": "1x1",
+      "resolution": "8192x8192",
+      "type": "basecolor",
+      "uri": "tkyjfgrbw_8K_Basecolor.exr"
+    },
+    {
+      "averageColor": "#412F1C",
+      "bitDepth": 8,
+      "colorSpace": "sRGB",
+      "contentLength": 46353064,
+      "maxIntensity": 113,
+      "mimeType": "image/jpeg",
+      "minIntensity": 19,
+      "name": "Basecolor",
+      "physicalSize": "1x1",
+      "resolution": "8192x8192",
+      "type": "basecolor",
+      "uri": "tkyjfgrbw_8K_Basecolor.jpg"
+    },
+    {
+      "averageColor": "#808080",
+      "bitDepth": 32,
+      "colorSpace": "Linear",
+      "contentLength": 201828764,
+      "maxIntensity": 255,
+      "mimeType": "image/x-exr",
+      "minIntensity": 0,
+      "name": "Bump",
+      "physicalSize": "1x1",
+      "resolution": "8192x8192",
+      "type": "bump",
+      "uri": "tkyjfgrbw_8K_Bump.exr"
+    },
+    {
+      "averageColor": "#808080",
+      "bitDepth": 8,
+      "colorSpace": "Linear",
+      "contentLength": 19524606,
+      "maxIntensity": 255,
+      "mimeType": "image/jpeg",
+      "minIntensity": 0,
+      "name": "Bump",
+      "physicalSize": "1x1",
+      "resolution": "8192x8192",
+      "type": "bump",
+      "uri": "tkyjfgrbw_8K_Bump.jpg"
+    },
+    {
+      "averageColor": "#FFFFFF",
+      "bitDepth": 32,
+      "colorSpace": "sRGB",
+      "contentLength": 211769148,
+      "maxIntensity": 255,
+      "mimeType": "image/x-exr",
+      "minIntensity": 255,
+      "name": "Cavity",
+      "physicalSize": "1x1",
+      "resolution": "8192x8192",
+      "type": "cavity",
+      "uri": "tkyjfgrbw_8K_Cavity.exr"
+    },
+    {
+      "averageColor": "#FFFFFF",
+      "bitDepth": 8,
+      "colorSpace": "sRGB",
+      "contentLength": 44367322,
+      "maxIntensity": 255,
+      "mimeType": "image/jpeg",
+      "minIntensity": 255,
+      "name": "Cavity",
+      "physicalSize": "1x1",
+      "resolution": "8192x8192",
+      "type": "cavity",
+      "uri": "tkyjfgrbw_8K_Cavity.jpg"
+    },
+    {
+      "averageColor": "#808080",
+      "bitDepth": 32,
+      "colorSpace": "Linear",
+      "contentLength": 262016910,
+      "maxIntensity": 156,
+      "mimeType": "image/x-exr",
+      "minIntensity": 109,
+      "name": "Displacement",
+      "physicalSize": "1x1",
+      "resolution": "8192x8192",
+      "type": "displacement",
+      "uri": "tkyjfgrbw_8K_Displacement.exr"
+    },
+    {
+      "averageColor": "#808080",
+      "bitDepth": 8,
+      "colorSpace": "Linear",
+      "contentLength": 5745403,
+      "maxIntensity": 156,
+      "mimeType": "image/jpeg",
+      "minIntensity": 109,
+      "name": "Displacement",
+      "physicalSize": "1x1",
+      "resolution": "8192x8192",
+      "type": "displacement",
+      "uri": "tkyjfgrbw_8K_Displacement.jpg"
+    },
+    {
+      "averageColor": "#484848",
+      "bitDepth": 32,
+      "colorSpace": "Linear",
+      "contentLength": 203156197,
+      "maxIntensity": 106,
+      "mimeType": "image/x-exr",
+      "minIntensity": 0,
+      "name": "Gloss",
+      "physicalSize": "1x1",
+      "resolution": "8192x8192",
+      "type": "gloss",
+      "uri": "tkyjfgrbw_8K_Gloss.exr"
+    },
+    {
+      "averageColor": "#484848",
+      "bitDepth": 8,
+      "colorSpace": "Linear",
+      "contentLength": 36886159,
+      "maxIntensity": 106,
+      "mimeType": "image/jpeg",
+      "minIntensity": 0,
+      "name": "Gloss",
+      "physicalSize": "1x1",
+      "resolution": "8192x8192",
+      "type": "gloss",
+      "uri": "tkyjfgrbw_8K_Gloss.jpg"
+    },
+    {
+      "averageColor": "#8282FB",
+      "bitDepth": 16,
+      "colorSpace": "Linear",
+      "contentLength": 195405892,
+      "maxIntensity": 203,
+      "mimeType": "image/x-exr",
+      "minIntensity": 70,
+      "name": "Normal",
+      "physicalSize": "1x1",
+      "resolution": "8192x8192",
+      "type": "normal",
+      "uri": "tkyjfgrbw_8K_Normal.exr"
+    },
+    {
+      "averageColor": "#8282FB",
+      "bitDepth": 8,
+      "colorSpace": "Linear",
+      "contentLength": 71102445,
+      "maxIntensity": 203,
+      "mimeType": "image/jpeg",
+      "minIntensity": 70,
+      "name": "Normal",
+      "physicalSize": "1x1",
+      "resolution": "8192x8192",
+      "type": "normal",
+      "uri": "tkyjfgrbw_8K_Normal.jpg"
+    },
+    {
+      "averageColor": "#B7B7B7",
+      "bitDepth": 32,
+      "colorSpace": "sRGB",
+      "contentLength": 193438543,
+      "maxIntensity": 255,
+      "mimeType": "image/x-exr",
+      "minIntensity": 149,
+      "name": "Roughness",
+      "physicalSize": "1x1",
+      "resolution": "8192x8192",
+      "type": "roughness",
+      "uri": "tkyjfgrbw_8K_Roughness.exr"
+    },
+    {
+      "averageColor": "#B7B7B7",
+      "bitDepth": 8,
+      "colorSpace": "sRGB",
+      "contentLength": 35910306,
+      "maxIntensity": 255,
+      "mimeType": "image/jpeg",
+      "minIntensity": 149,
+      "name": "Roughness",
+      "physicalSize": "1x1",
+      "resolution": "8192x8192",
+      "type": "roughness",
+      "uri": "tkyjfgrbw_8K_Roughness.jpg"
+    },
+    {
+      "averageColor": "#383838",
+      "bitDepth": 16,
+      "colorSpace": "sRGB",
+      "contentLength": 233423668,
+      "maxIntensity": 56,
+      "mimeType": "image/x-exr",
+      "minIntensity": 56,
+      "name": "Specular",
+      "physicalSize": "1x1",
+      "resolution": "8192x8192",
+      "type": "specular",
+      "uri": "tkyjfgrbw_8K_Specular.exr"
+    },
+    {
+      "averageColor": "#383838",
+      "bitDepth": 8,
+      "colorSpace": "sRGB",
+      "contentLength": 26584720,
+      "maxIntensity": 56,
+      "mimeType": "image/jpeg",
+      "minIntensity": 56,
+      "name": "Specular",
+      "physicalSize": "1x1",
+      "resolution": "8192x8192",
+      "type": "specular",
+      "uri": "tkyjfgrbw_8K_Specular.jpg"
+    }
+  ],
+  "meta": [
+    {
+      "key": "scanArea",
+      "name": "Scan Area",
+      "value": "1x1 m"
+    },
+    {
+      "key": "height",
+      "name": "Height",
+      "value": "0.037 m"
+    },
+    {
+      "key": "tileable",
+      "name": "Tileable",
+      "value": true
+    },
+    {
+      "key": "texelDensity",
+      "name": "Texel Density",
+      "value": "8192 px/m"
+    },
+    {
+      "key": "calibration",
+      "name": "Calibration",
+      "value": "GretagMacbeth ColorChecker Color Rendition Chart"
+    },
+    {
+      "key": "scanner",
+      "name": "Scanner",
+      "value": "MKX"
+    }
+  ],
+  "models": [],
+  "name": "Worn Wooden Wall Panel",
+  "pack": {
+    "_id": "old-mansion-room",
+    "name": "Old Mansion Room"
+  },
+  "physicalSize": null,
+  "points": 2,
+  "previews": {
+    "images": [
+      {
+        "contentLength": 240849,
+        "resolution": "360x360",
+        "tags": [
+          "thumb"
+        ],
+        "uri": "tkyjfgrbw_Grid_360.png"
+      },
+      {
+        "contentLength": 326596,
+        "resolution": "420x420",
+        "tags": [
+          "thumb"
+        ],
+        "uri": "tkyjfgrbw_Grid_420.png"
+      },
+      {
+        "contentLength": 978015,
+        "resolution": "720x720",
+        "tags": [
+          "thumb",
+          "retina"
+        ],
+        "uri": "tkyjfgrbw_Grid_720.png"
+      },
+      {
+        "contentLength": 1338385,
+        "resolution": "840x840",
+        "tags": [
+          "thumb",
+          "retina"
+        ],
+        "uri": "tkyjfgrbw_Grid_840.png"
+      },
+      {
+        "contentLength": 2704178,
+        "resolution": "1440x768",
+        "tags": [
+          "preview",
+          "clay"
+        ],
+        "uri": "tkyjfgrbw_PopupClay_1440.png"
+      },
+      {
+        "contentLength": 5123527,
+        "resolution": "1920x1080",
+        "tags": [
+          "preview",
+          "clay"
+        ],
+        "uri": "tkyjfgrbw_PopupClay_1920.png"
+      },
+      {
+        "contentLength": 11070856,
+        "resolution": "2880x1536",
+        "tags": [
+          "preview",
+          "clay",
+          "retina"
+        ],
+        "uri": "tkyjfgrbw_PopupClay_2880.png"
+      },
+      {
+        "contentLength": 21334693,
+        "resolution": "3840x2160",
+        "tags": [
+          "preview",
+          "clay",
+          "retina"
+        ],
+        "uri": "tkyjfgrbw_PopupClay_3840.png"
+      },
+      {
+        "contentLength": 2905915,
+        "resolution": "1440x768",
+        "tags": [
+          "preview",
+          "tiled"
+        ],
+        "uri": "tkyjfgrbw_PopupTiled_1440.png"
+      },
+      {
+        "contentLength": 5412335,
+        "resolution": "1920x1080",
+        "tags": [
+          "preview",
+          "tiled"
+        ],
+        "uri": "tkyjfgrbw_PopupTiled_1920.png"
+      },
+      {
+        "contentLength": 11613572,
+        "resolution": "2880x1536",
+        "tags": [
+          "preview",
+          "tiled",
+          "retina"
+        ],
+        "uri": "tkyjfgrbw_PopupTiled_2880.png"
+      },
+      {
+        "contentLength": 22245061,
+        "resolution": "3840x2160",
+        "tags": [
+          "preview",
+          "tiled",
+          "retina"
+        ],
+        "uri": "tkyjfgrbw_PopupTiled_3840.png"
+      },
+      {
+        "contentLength": 2917062,
+        "resolution": "1440x768",
+        "tags": [
+          "preview"
+        ],
+        "uri": "tkyjfgrbw_Popup_1440.png"
+      },
+      {
+        "contentLength": 5514211,
+        "resolution": "1920x1080",
+        "tags": [
+          "preview"
+        ],
+        "uri": "tkyjfgrbw_Popup_1920.png"
+      },
+      {
+        "contentLength": 11913163,
+        "resolution": "2880x1536",
+        "tags": [
+          "preview",
+          "retina"
+        ],
+        "uri": "tkyjfgrbw_Popup_2880.png"
+      },
+      {
+        "contentLength": 23056439,
+        "resolution": "3840x2160",
+        "tags": [
+          "preview",
+          "retina"
+        ],
+        "uri": "tkyjfgrbw_Popup_3840.png"
+      }
+    ],
+    "relativeSize": "1x1",
+    "scaleReferences": []
+  },
+  "process_date": "2024-04-17 07:36:59",
+  "properties": [],
+  "referencePreviews": {
+    "maps": [],
+    "models": []
+  },
+  "references": [],
+  "revised": false,
+  "revision": 0,
+  "semanticTags": {
+    "3d_mesh": [],
+    "architectural_style": {},
+    "asset_type": "surface",
+    "color": [
+      "brown"
+    ],
+    "contains": [
+      "wall panel",
+      "wood",
+      "scratches"
+    ],
+    "descriptive": [
+      "paneling",
+      " worn",
+      " old",
+      " scratched"
+    ],
+    "environment": [
+      "urban",
+      "rural"
+    ],
+    "industry": [
+      "archviz",
+      "games",
+      "VFX"
+    ],
+    "interior_exterior": [
+      "interior"
+    ],
+    "latin_name": [],
+    "locations": {
+      "Europe": {
+        "Poland": {}
+      }
+    },
+    "maxSize": 1,
+    "minSize": 1,
+    "name": "Worn Wooden Wall Panel",
+    "orientation": [
+      "wall"
+    ],
+    "resolution": 8192,
+    "season": [],
+    "state": [
+      "old"
+    ],
+    "subject_matter": "manmade",
+    "theme": [
+      "wall",
+      " interiors",
+      " abandoned palace"
+    ]
+  },
+  "tags": [
+    "surface",
+    "brown",
+    "archviz",
+    "poland",
+    "abandoned palace",
+    "panel",
+    "old",
+    "panelling",
+    "interiors",
+    "walls"
+  ],
+  "texelDensity": 8192,
+  "texture_type": "basic",
+  "ue_plugin_archives": [
+    {
+      "contentLength": 287068015,
+      "gltfVersion": "2.0",
+      "tier": 0,
+      "type": "gltf",
+      "uri": "ue_plugin_archives/tier_0/tkyjfgrbw_tier_0.zip",
+      "version": 1
+    },
+    {
+      "contentLength": 92610133,
+      "gltfVersion": "2.0",
+      "tier": 1,
+      "type": "gltf",
+      "uri": "ue_plugin_archives/tier_1/tkyjfgrbw_tier_1.zip",
+      "version": 1
+    },
+    {
+      "contentLength": 23078905,
+      "gltfVersion": "2.0",
+      "tier": 2,
+      "type": "gltf",
+      "uri": "ue_plugin_archives/tier_2/tkyjfgrbw_tier_2.zip",
+      "version": 1
+    },
+    {
+      "contentLength": 1801358,
+      "gltfVersion": "2.0",
+      "tier": 3,
+      "type": "gltf",
+      "uri": "ue_plugin_archives/tier_3/tkyjfgrbw_tier_3.zip",
+      "version": 1
+    }
+  ],
+  "version": 2
+}
